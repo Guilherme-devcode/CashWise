@@ -38,6 +38,7 @@ class TransactionList extends StatelessWidget {
               final tr = transactions[index];
               return Card(
                 elevation: 5,
+                shadowColor: Color.fromRGBO(143, 148, 251, .3),
                 margin: EdgeInsets.symmetric(
                   vertical: 8,
                   horizontal: 5,
