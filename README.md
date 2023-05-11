@@ -1,16 +1,41 @@
-# cashwise
+<p align="center">
+    <img alt="Readme" title="CashWise Screenshot" src="./screenshot.PNG" />
+</p>
 
-A new Flutter project.
+<h1 align="center">CashWise</h1>
 
-## Getting Started
+<p align="center">
+    <a href="#about">About</a> • 
+    <a href="#features">Features</a> • 
+    <a href="#technologies">Technologies</a> • 
+    <a href="#author">Author</a> 
+</p>
 
-This project is a starting point for a Flutter application.
+### About
 
-A few resources to get you started if this is your first Flutter project:
+CashWise is a Flutter app designed to help users manage their personal expenses in an easy and efficient way. With an intuitive and user-friendly interface, the app allows users to record all their expenses and income quickly and in an organized manner.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Record expenses and income
+- [x] Categorize expenses and income
+- [x] View expenses and income in graphs
+- [x] End-to-end encryption for security
+- [x] Optional security PIN for app access
+
+### Technologies
+
+The following tools and technologies were used in the development of this project:
+
+<table>
+    <tr>
+        <td><a href="https://flutter.dev/">Flutter</a></td>
+    </tr>
+    <tr>
+        <td>2.2.0</td>
+    </tr>
+</table>
+
+### Author
+
+> Created by YOUR NAME HERE 👉 [YOUR LINKEDIN URL HERE](YOUR LINKEDIN URL HERE) • GitHub [@YOUR GITHUB USERNAME HERE](YOUR GITHUB URL HERE)
