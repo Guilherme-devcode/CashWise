@@ -21,8 +21,6 @@ CashWise is a Flutter app designed to help users manage their personal expenses 
 - [x] Record expenses and income
 - [x] Categorize expenses and income
 - [x] View expenses and income in graphs
-- [x] End-to-end encryption for security
-- [x] Optional security PIN for app access
 
 ### Technologies
 
