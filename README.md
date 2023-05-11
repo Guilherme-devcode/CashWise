@@ -1,5 +1,6 @@
 <p align="center">
     <img alt="Readme" title="CashWise Screenshot" src="./assets/images/cashawallpaper.PNG" />
+      <img alt="Readme" title="CashWise Screenshot" src="./assets/images/dashboardCash.PNG" />
 </p>
 
 <h1 align="center">CashWise</h1>
