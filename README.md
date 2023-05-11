@@ -37,4 +37,4 @@ The following tools and technologies were used in the development of this projec
 
 ### Author
 
-> Created by YOUR NAME HERE 👉 https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/ • GitHub https://github.com/Guilherme-devcode
+> Created by Guilherme Rocha 👉 https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/ • GitHub https://github.com/Guilherme-devcode
