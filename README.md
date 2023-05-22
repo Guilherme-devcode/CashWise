@@ -1,40 +1,43 @@
 <p align="center">
-    <img alt="Readme" title="CashWise Screenshot" src="./assets/images/cashawallpaper.PNG" />
-      <img alt="Readme" title="CashWise Screenshot" src="./assets/images/dashboardCash.PNG" />
+    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/cashawallpaper.PNG" />
+    <img alt="Readme" title="angularFy Screenshot" src="./assets/images/dashboardCash.PNG" />
 </p>
 
-<h1 align="center">CashWise</h1>
+<h1 align="center">angularFy</h1>
 
 <p align="center">
-    <a href="#about">About</a> • 
-    <a href="#features">Features</a> • 
-    <a href="#technologies">Technologies</a> • 
-    <a href="#author">Author</a> 
+    <a href="#about">Sobre</a> • 
+    <a href="#features">Recursos</a> • 
+    <a href="#technologies">Tecnologias</a> • 
+    <a href="#author">Autor</a> 
 </p>
 
-### About
+### Sobre
 
-CashWise is a Flutter app designed to help users manage their personal expenses in an easy and efficient way. With an intuitive and user-friendly interface, the app allows users to record all their expenses and income quickly and in an organized manner.
+angularFy é um aplicativo Angular projetado para ajudar os usuários a explorarem e descobrirem músicas usando a API do Spotify. Com esta aplicação, os usuários podem pesquisar por artistas, álbuns e faixas, visualizar informações detalhadas sobre eles e reproduzir trechos de música diretamente no aplicativo.
 
-### Features
+### Recursos
 
-- [x] Record expenses and income
-- [x] Categorize expenses and income
-- [x] View expenses and income in graphs
+- [x] Pesquisa de artistas, álbuns e faixas
+- [x] Visualização de informações detalhadas sobre artistas, álbuns e faixas
+- [x] Reprodução de trechos de música
 
-### Technologies
+### Tecnologias
 
-The following tools and technologies were used in the development of this project:
+As seguintes ferramentas e tecnologias foram utilizadas no desenvolvimento deste projeto:
 
 <table>
     <tr>
-        <td><a href="https://flutter.dev/">Flutter</a></td>
+        <td><a href="https://angular.io/">Angular</a></td>
     </tr>
     <tr>
-        <td>2.2.0</td>
+        <td>versão mais recente</td>
+    </tr>
+    <tr>
+        <td><a href="https://developer.spotify.com/documentation/web-api/">API do Spotify</a></td>
     </tr>
 </table>
 
-### Author
+### Autor
 
-> Created by Guilherme Rocha 👉 https://www.linkedin.com/in/guilherme-mesquita-rocha-7b3a69220/ • GitHub https://github.com/Guilherme-devcode
+> Criado por [Nome do Autor] 👉 [Perfil do LinkedIn](https://www.linkedin.com/in/linkedin-do-autor) • GitHub [Link para o GitHub do Autor](https://github.com/link-do-github-do-autor)
